@@ -42,8 +42,8 @@ Identify natural customer segments in the mall dataset using unsupervised learni
 ## How to Run
 
 1. Clone the repository.
-2. Ensure you have Python 3.x installed along with required packages: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`.
-3. Run the Jupyter Notebook (`Mall_Customer_Segmentation.ipynb`) to reproduce analysis and results.
+2. Ensure you have Python 3.x installed along with required packages: pandas, numpy, matplotlib, seaborn, scikit-learn.
+3. Run the Jupyter Notebook Unsupervised Algorithms in Machine Learning Final Project.ipynb to reproduce analysis and results.
 
 ## Dependencies
 
